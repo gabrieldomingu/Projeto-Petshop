@@ -128,3 +128,30 @@ form textarea{
 iframe{
     width: 100%;
 }
+
+footer {
+    text-align: center;
+    background: #369d94;
+    color: #fff;
+    margin-top: 60px;
+    padding: 45px;  
+}
+
+footer a{
+    text-align: center;
+    cursor: pointer;
+    background-color: #369d94;
+    color: black;
+    margin: 15px;
+    width: 20px;
+    height: 15px;
+}
+
+footer i {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #333;
+}
+.custom-icon{
+    padding: 10px;
+}
